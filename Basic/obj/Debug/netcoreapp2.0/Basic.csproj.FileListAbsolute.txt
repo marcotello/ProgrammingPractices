@@ -1,0 +1,10 @@
+/home/marco/Documents/Net/Practices/ProgrammingPractices/Basic/bin/Debug/netcoreapp2.0/Basic.deps.json
+/home/marco/Documents/Net/Practices/ProgrammingPractices/Basic/bin/Debug/netcoreapp2.0/Basic.runtimeconfig.json
+/home/marco/Documents/Net/Practices/ProgrammingPractices/Basic/bin/Debug/netcoreapp2.0/Basic.runtimeconfig.dev.json
+/home/marco/Documents/Net/Practices/ProgrammingPractices/Basic/bin/Debug/netcoreapp2.0/Basic.dll
+/home/marco/Documents/Net/Practices/ProgrammingPractices/Basic/bin/Debug/netcoreapp2.0/Basic.pdb
+/home/marco/Documents/Net/Practices/ProgrammingPractices/Basic/obj/Debug/netcoreapp2.0/Basic.csproj.CoreCompileInputs.cache
+/home/marco/Documents/Net/Practices/ProgrammingPractices/Basic/obj/Debug/netcoreapp2.0/Basic.AssemblyInfoInputs.cache
+/home/marco/Documents/Net/Practices/ProgrammingPractices/Basic/obj/Debug/netcoreapp2.0/Basic.AssemblyInfo.cs
+/home/marco/Documents/Net/Practices/ProgrammingPractices/Basic/obj/Debug/netcoreapp2.0/Basic.dll
+/home/marco/Documents/Net/Practices/ProgrammingPractices/Basic/obj/Debug/netcoreapp2.0/Basic.pdb

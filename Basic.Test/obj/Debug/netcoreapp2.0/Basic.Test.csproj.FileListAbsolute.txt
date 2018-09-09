@@ -1,0 +1,16 @@
+/home/marco/Documents/Net/Practices/ProgrammingPractices/Basic.Test/bin/Debug/netcoreapp2.0/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/home/marco/Documents/Net/Practices/ProgrammingPractices/Basic.Test/bin/Debug/netcoreapp2.0/xunit.runner.reporters.netcoreapp10.dll
+/home/marco/Documents/Net/Practices/ProgrammingPractices/Basic.Test/bin/Debug/netcoreapp2.0/xunit.runner.utility.netcoreapp10.dll
+/home/marco/Documents/Net/Practices/ProgrammingPractices/Basic.Test/bin/Debug/netcoreapp2.0/Basic.Test.deps.json
+/home/marco/Documents/Net/Practices/ProgrammingPractices/Basic.Test/bin/Debug/netcoreapp2.0/Basic.Test.runtimeconfig.json
+/home/marco/Documents/Net/Practices/ProgrammingPractices/Basic.Test/bin/Debug/netcoreapp2.0/Basic.Test.runtimeconfig.dev.json
+/home/marco/Documents/Net/Practices/ProgrammingPractices/Basic.Test/bin/Debug/netcoreapp2.0/Basic.Test.dll
+/home/marco/Documents/Net/Practices/ProgrammingPractices/Basic.Test/bin/Debug/netcoreapp2.0/Basic.Test.pdb
+/home/marco/Documents/Net/Practices/ProgrammingPractices/Basic.Test/bin/Debug/netcoreapp2.0/Basic.dll
+/home/marco/Documents/Net/Practices/ProgrammingPractices/Basic.Test/bin/Debug/netcoreapp2.0/Basic.pdb
+/home/marco/Documents/Net/Practices/ProgrammingPractices/Basic.Test/obj/Debug/netcoreapp2.0/Basic.Test.csproj.CoreCompileInputs.cache
+/home/marco/Documents/Net/Practices/ProgrammingPractices/Basic.Test/obj/Debug/netcoreapp2.0/Basic.Test.AssemblyInfoInputs.cache
+/home/marco/Documents/Net/Practices/ProgrammingPractices/Basic.Test/obj/Debug/netcoreapp2.0/Basic.Test.AssemblyInfo.cs
+/home/marco/Documents/Net/Practices/ProgrammingPractices/Basic.Test/obj/Debug/netcoreapp2.0/Basic.Test.csproj.CopyComplete
+/home/marco/Documents/Net/Practices/ProgrammingPractices/Basic.Test/obj/Debug/netcoreapp2.0/Basic.Test.dll
+/home/marco/Documents/Net/Practices/ProgrammingPractices/Basic.Test/obj/Debug/netcoreapp2.0/Basic.Test.pdb
