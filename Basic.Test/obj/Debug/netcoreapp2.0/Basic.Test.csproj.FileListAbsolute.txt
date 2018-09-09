@@ -14,3 +14,4 @@
 /home/marco/Documents/Net/Practices/ProgrammingPractices/Basic.Test/obj/Debug/netcoreapp2.0/Basic.Test.csproj.CopyComplete
 /home/marco/Documents/Net/Practices/ProgrammingPractices/Basic.Test/obj/Debug/netcoreapp2.0/Basic.Test.dll
 /home/marco/Documents/Net/Practices/ProgrammingPractices/Basic.Test/obj/Debug/netcoreapp2.0/Basic.Test.pdb
+/home/marco/Documents/Net/Practices/ProgrammingPractices/Basic.Test/obj/Debug/netcoreapp2.0/Basic.Test.csprojResolveAssemblyReference.cache

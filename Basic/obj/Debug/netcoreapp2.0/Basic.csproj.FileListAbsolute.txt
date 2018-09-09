@@ -8,3 +8,4 @@
 /home/marco/Documents/Net/Practices/ProgrammingPractices/Basic/obj/Debug/netcoreapp2.0/Basic.AssemblyInfo.cs
 /home/marco/Documents/Net/Practices/ProgrammingPractices/Basic/obj/Debug/netcoreapp2.0/Basic.dll
 /home/marco/Documents/Net/Practices/ProgrammingPractices/Basic/obj/Debug/netcoreapp2.0/Basic.pdb
+/home/marco/Documents/Net/Practices/ProgrammingPractices/Basic/obj/Debug/netcoreapp2.0/Basic.csprojResolveAssemblyReference.cache
