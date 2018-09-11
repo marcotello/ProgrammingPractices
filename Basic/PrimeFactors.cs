@@ -17,8 +17,11 @@ namespace Basic
                 if(number % factor == 0)
                 {
                     number =  number / factor;
-                    factor = GetNextPrime(factor);
                     primes.Add(factor);
+                }
+                else
+                {
+                    factor = GetNextPrime(factor);
                 }
             }
             return GetOutput(initialNumber, primes.ToArray());
