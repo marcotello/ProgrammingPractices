@@ -7,22 +7,11 @@ namespace Basic
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            LeastCommonMultiple lcm =  new LeastCommonMultiple();
+            PrimeFactors pf =  new PrimeFactors();
 
-            Console.WriteLine("Nueva Evaluacion 2");
-            lcm.GetNextPrimeNumber(2);
-            Console.WriteLine("Nueva Evaluacion 3");
-            lcm.GetNextPrimeNumber(3);
-            Console.WriteLine("Nueva Evaluacion 4");
-            lcm.GetNextPrimeNumber(4);
-            Console.WriteLine("Nueva Evaluacion");
-            lcm.GetNextPrimeNumber(5);
-            Console.WriteLine("Nueva Evaluacion");
-            lcm.GetNextPrimeNumber(7);
-            Console.WriteLine("Nueva Evaluacion");
-            lcm.GetNextPrimeNumber(75);
-            Console.WriteLine("Nueva Evaluacion");
-            lcm.GetNextPrimeNumber(89);
+            Console.WriteLine("Nueva Evaluacion 25, 50, 72");
+            int nextPrime = pf.GetNextPrime(4);
+            Console.WriteLine("Resultado: " + nextPrime);
         }
     }
 }

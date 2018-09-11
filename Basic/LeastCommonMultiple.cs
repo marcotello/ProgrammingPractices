@@ -14,17 +14,24 @@ namespace Basic
             int counter = 0;
             int divisible = 2;
 
-            for(int i = 0; i <= numbers.Length; i++)
+            for(int i = 0; i < numbers.Length; i++)
             {
                 factor = numbers[i];
-                while(factor >= 1)
+                while(factor > 1)
                 {
                     if(factor % divisible == 0)
                     {
                         factor = factor / divisible;
                         if(multipliers.Count > 0)
                         {
-                            if(multipliers[counter] != divisible)
+                            if(i>0)
+                            {
+                                if(multipliers[counter] != divisible)
+                                {
+                                    multipliers.Insert(counter, divisible);
+                                }
+                            }
+                            else
                             {
                                 multipliers.Insert(counter, divisible);
                             }
@@ -41,6 +48,7 @@ namespace Basic
                     }
                 }
                 counter = 0;
+                divisible = 2;
             }
 
             return multiplyNumbersInAList(multipliers.ToArray());
