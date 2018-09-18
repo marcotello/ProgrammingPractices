@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/marco/Documents/Net/Practices/ProgrammingPractices/Basic/Basic.csproj",
+      "projectUniqueName": "/home/marco/Documents/Net/NetCorePractices/ProgrammingPractices/Basic/Basic.csproj",
       "projectName": "Basic",
-      "projectPath": "/home/marco/Documents/Net/Practices/ProgrammingPractices/Basic/Basic.csproj",
+      "projectPath": "/home/marco/Documents/Net/NetCorePractices/ProgrammingPractices/Basic/Basic.csproj",
       "packagesPath": "/home/marco/.nuget/packages/",
-      "outputPath": "/home/marco/Documents/Net/Practices/ProgrammingPractices/Basic/obj/",
+      "outputPath": "/home/marco/Documents/Net/NetCorePractices/ProgrammingPractices/Basic/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/share/dotnet/sdk/NuGetFallbackFolder"
