@@ -5738,11 +5738,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/marco/Documents/Net/NetCorePractices/ProgrammingPractices/Basic.Test/Basic.Test.csproj",
+      "projectUniqueName": "/home/marco/Documents/Net/Practices/ProgrammingPractices/Basic.Test/Basic.Test.csproj",
       "projectName": "Basic.Test",
-      "projectPath": "/home/marco/Documents/Net/NetCorePractices/ProgrammingPractices/Basic.Test/Basic.Test.csproj",
+      "projectPath": "/home/marco/Documents/Net/Practices/ProgrammingPractices/Basic.Test/Basic.Test.csproj",
       "packagesPath": "/home/marco/.nuget/packages/",
-      "outputPath": "/home/marco/Documents/Net/NetCorePractices/ProgrammingPractices/Basic.Test/obj/",
+      "outputPath": "/home/marco/Documents/Net/Practices/ProgrammingPractices/Basic.Test/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/share/dotnet/sdk/NuGetFallbackFolder"
@@ -5759,8 +5759,8 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "/home/marco/Documents/Net/NetCorePractices/ProgrammingPractices/Basic/Basic.csproj": {
-              "projectPath": "/home/marco/Documents/Net/NetCorePractices/ProgrammingPractices/Basic/Basic.csproj"
+            "/home/marco/Documents/Net/Practices/ProgrammingPractices/Basic/Basic.csproj": {
+              "projectPath": "/home/marco/Documents/Net/Practices/ProgrammingPractices/Basic/Basic.csproj"
             }
           }
         }
