@@ -1,0 +1,10 @@
+/home/marco/Documents/Net/NetCorePractices/ProgrammingPractices/Medium/bin/Debug/netcoreapp2.0/Medium.deps.json
+/home/marco/Documents/Net/NetCorePractices/ProgrammingPractices/Medium/bin/Debug/netcoreapp2.0/Medium.runtimeconfig.json
+/home/marco/Documents/Net/NetCorePractices/ProgrammingPractices/Medium/bin/Debug/netcoreapp2.0/Medium.runtimeconfig.dev.json
+/home/marco/Documents/Net/NetCorePractices/ProgrammingPractices/Medium/bin/Debug/netcoreapp2.0/Medium.dll
+/home/marco/Documents/Net/NetCorePractices/ProgrammingPractices/Medium/bin/Debug/netcoreapp2.0/Medium.pdb
+/home/marco/Documents/Net/NetCorePractices/ProgrammingPractices/Medium/obj/Debug/netcoreapp2.0/Medium.csproj.CoreCompileInputs.cache
+/home/marco/Documents/Net/NetCorePractices/ProgrammingPractices/Medium/obj/Debug/netcoreapp2.0/Medium.AssemblyInfoInputs.cache
+/home/marco/Documents/Net/NetCorePractices/ProgrammingPractices/Medium/obj/Debug/netcoreapp2.0/Medium.AssemblyInfo.cs
+/home/marco/Documents/Net/NetCorePractices/ProgrammingPractices/Medium/obj/Debug/netcoreapp2.0/Medium.dll
+/home/marco/Documents/Net/NetCorePractices/ProgrammingPractices/Medium/obj/Debug/netcoreapp2.0/Medium.pdb

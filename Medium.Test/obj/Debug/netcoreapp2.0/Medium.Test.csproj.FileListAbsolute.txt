@@ -1,0 +1,17 @@
+/home/marco/Documents/Net/NetCorePractices/ProgrammingPractices/Medium.Test/bin/Debug/netcoreapp2.0/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/home/marco/Documents/Net/NetCorePractices/ProgrammingPractices/Medium.Test/bin/Debug/netcoreapp2.0/xunit.runner.reporters.netcoreapp10.dll
+/home/marco/Documents/Net/NetCorePractices/ProgrammingPractices/Medium.Test/bin/Debug/netcoreapp2.0/xunit.runner.utility.netcoreapp10.dll
+/home/marco/Documents/Net/NetCorePractices/ProgrammingPractices/Medium.Test/bin/Debug/netcoreapp2.0/Medium.Test.deps.json
+/home/marco/Documents/Net/NetCorePractices/ProgrammingPractices/Medium.Test/bin/Debug/netcoreapp2.0/Medium.Test.runtimeconfig.json
+/home/marco/Documents/Net/NetCorePractices/ProgrammingPractices/Medium.Test/bin/Debug/netcoreapp2.0/Medium.Test.runtimeconfig.dev.json
+/home/marco/Documents/Net/NetCorePractices/ProgrammingPractices/Medium.Test/bin/Debug/netcoreapp2.0/Medium.Test.dll
+/home/marco/Documents/Net/NetCorePractices/ProgrammingPractices/Medium.Test/bin/Debug/netcoreapp2.0/Medium.Test.pdb
+/home/marco/Documents/Net/NetCorePractices/ProgrammingPractices/Medium.Test/bin/Debug/netcoreapp2.0/Medium.dll
+/home/marco/Documents/Net/NetCorePractices/ProgrammingPractices/Medium.Test/bin/Debug/netcoreapp2.0/Medium.pdb
+/home/marco/Documents/Net/NetCorePractices/ProgrammingPractices/Medium.Test/obj/Debug/netcoreapp2.0/Medium.Test.csproj.CoreCompileInputs.cache
+/home/marco/Documents/Net/NetCorePractices/ProgrammingPractices/Medium.Test/obj/Debug/netcoreapp2.0/Medium.Test.AssemblyInfoInputs.cache
+/home/marco/Documents/Net/NetCorePractices/ProgrammingPractices/Medium.Test/obj/Debug/netcoreapp2.0/Medium.Test.AssemblyInfo.cs
+/home/marco/Documents/Net/NetCorePractices/ProgrammingPractices/Medium.Test/obj/Debug/netcoreapp2.0/Medium.Test.csproj.CopyComplete
+/home/marco/Documents/Net/NetCorePractices/ProgrammingPractices/Medium.Test/obj/Debug/netcoreapp2.0/Medium.Test.dll
+/home/marco/Documents/Net/NetCorePractices/ProgrammingPractices/Medium.Test/obj/Debug/netcoreapp2.0/Medium.Test.pdb
+/home/marco/Documents/Net/NetCorePractices/ProgrammingPractices/Medium.Test/obj/Debug/netcoreapp2.0/Medium.Test.csprojResolveAssemblyReference.cache
